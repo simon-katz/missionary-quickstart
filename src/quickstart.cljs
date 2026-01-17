@@ -1,4 +1,4 @@
-(ns quickstart
+(ns quickstart ; TODO: Look at this repo
   "Missionary quickstart, for 10x devs with ADHD"
   (:import [missionary Cancelled])
   (:require [hyperfiddle.rcf :refer [tests % tap with]]
