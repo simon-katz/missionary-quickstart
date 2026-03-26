@@ -2,3 +2,4 @@
 /.shadow-cljs
 /resources/public/js
 /.nrepl-port
+/.clj-kondo/imports/
